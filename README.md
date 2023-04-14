@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Author
 
-Vakil Ali - vakiliali79
+Ali Vakili - vakiliali79@gmail.com
