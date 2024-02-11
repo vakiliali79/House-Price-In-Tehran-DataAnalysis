@@ -46,11 +46,6 @@ Conclusion
 
 The project demonstrates the use of various data mining techniques to analyze and predict the house prices in Tehran. The model built in this project can be used as a reference for real estate agents or individuals looking to buy or sell a house in Tehran.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Licensing
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Author
